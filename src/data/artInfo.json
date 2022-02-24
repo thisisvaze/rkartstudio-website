@@ -1,0 +1,129 @@
+{
+  "coffee":{
+    "title":"Coffee",
+    "subtitle":"Using fine coffee and water to give the raw texture to portraits.",
+    "info":"It is astonishing to see how the coffee we drink every morning can be used to create splendid paintings. Though this art form involves only one colour (monochromatic), the potential is limitless. Coffee dust, leaves and seeds of coffee plant used on a watercolor paper give the quaint vintage look. With enhanced expressions and depth that appeal to the eye along with pleasing aroma, it is a great way of making every occasion more memorable.",
+    "headerImage":"/images/mediumHeaderImages/coffee",
+    "textColor":"#6f4e37",
+    "artItems":
+  {
+    "1":{
+      "title":"Coffee",
+      "desc":"Lorem Impsum",
+      "size":"Custom- 20cm x 20cm",
+      "imgUrl":"/images/artItemImages/coffee/1",
+      "refImgUrl":"/images/artItemImages/coffee/1-ref"
+    },
+    "2":{
+      "title":"Coffee",
+      "desc":"Lorem Impsum",
+      "size":"A5",
+      "imgUrl":"/images/artItemImages/coffee/2",
+      "refImgUrl":"/images/artItemImages/coffee/2-ref"
+    },
+    "3":{
+      "title":"Coffee",
+      "desc":"Lorem Impsum",
+      "size":"A3",
+      "imgUrl":"/images/artItemImages/coffee/3",
+      "refImgUrl":"/images/artItemImages/coffee/3-ref"
+    },
+    "4":{
+      "title":"Coffee",
+      "desc":"Lorem Impsum",
+      "size":"A3",
+      "imgUrl":"/images/artItemImages/coffee/4",
+      "refImgUrl":"/images/artItemImages/coffee/4-ref"
+    },
+    "5":{
+      "title":"Coffee",
+      "desc":"Lorem Impsum",
+      "size":"A3",
+      "imgUrl":"/images/artItemImages/coffee/5",
+      "refImgUrl":"/images/artItemImages/coffee/5-ref"
+    }
+}},
+
+  "colorPencils":
+  {
+    "title":"Coloured Pencils",
+    "subtitle":"Using Polychromos pencils for rich details and fine-textures.",
+    "info":"Hyper-realism using coloured pencils is an art technique that creates artwork so realistic that the boundaries between reality and imagination blur. The tints, shades, with hard, soft, soluble, bendable and erasable pigments utilize the minute details to tell a story that explores the depth of the expression. Rather than perfection my focus is always on pure realism, infusing portraits with a raw sense of emotion and drama. The scale of each piece, always slightly larger than life, adds an uncanny three-dimensional aspect.",
+    "headerImage":"/images/mediumHeaderImages/colorPencils",
+    "textColor":"#ffffff",
+    "artItems":{
+    "1":{
+      "title":"Color Pencils",
+      "desc":"Lorem Impsum",
+      "size":"Custom- 45cm x 45cm",
+      "imgUrl":"/images/artItemImages/colorPencils/1",
+      "refImgUrl":"/images/artItemImages/colorPencils/1-ref"
+    },
+    "2":{
+      "title":"Color Pencils",
+      "desc":"Lorem Impsum",
+      "size":"A4",
+      "imgUrl":"/images/artItemImages/colorPencils/2",
+      "refImgUrl":"/images/artItemImages/colorPencils/2-ref"
+    },
+    "3":{
+      "title":"Color Pencils",
+      "desc":"Lorem Impsum",
+      "size":"A4",
+      "imgUrl":"/images/artItemImages/colorPencils/3",
+      "refImgUrl":"/images/artItemImages/colorPencils/3-ref"
+    },
+    "4":{
+      "title":"Color Pencils",
+      "desc":"Lorem Impsum",
+      "size":"A4",
+      "imgUrl":"/images/artItemImages/colorPencils/4",
+      "refImgUrl":"/images/artItemImages/colorPencils/4-ref"
+    },
+    "5":{
+      "title":"Color Pencils",
+      "desc":"Lorem Impsum",
+      "size":"A3",
+      "imgUrl":"/images/artItemImages/colorPencils/5",
+      "refImgUrl":"/images/artItemImages/colorPencils/5-ref"
+    }
+  }},
+  
+  "charcoal":{
+    "title":"Charcoal",
+    "subtitle":"Using raw Charcoal sticks to provide high contrast and portraying the greyscale. ",
+    "info":" \"When you photograph people in colour, you photograph their clothes. But when you photograph people in Black and white, you photograph their souls! \" ― Ted Grant. From the early, primitive cave paintings to modern day art charcoal has been a versatile art medium. The variety of forms of charcoal such as compressed stick, softer charcoal and pressed charcoal let you get more expressive. The beautiful contrast of black and white surrounded by different shades of grey make the portrait more interesting, interpretive and realistic in its own way.",
+    "headerImage":"/images/mediumHeaderImages/charcoal",
+    "textColor":"#212529",
+    "artItems":{
+    "1":{
+      "title":"Charcoal",
+      "desc":"Lorem Impsum",
+      "size":"Custom- 30cm x 30cm",
+      "imgUrl":"/images/artItemImages/charcoal/charcoal-01",
+      "refImgUrl":"/images/artItemImages/charcoal/ref-charcoal-01"
+    },
+    "2":{
+      "title":"Charcoal",
+      "desc":"Lorem Impsum",
+      "size":"A3",
+      "imgUrl":"/images/artItemImages/charcoal/charcoal-02",
+      "refImgUrl":"/images/artItemImages/charcoal/ref-charcoal-02"
+    },
+    "3":{
+      "title":"Charcoal",
+      "desc":"Lorem Impsum",
+      "size":"Custom- 45cm x 45cm",
+      "imgUrl":"/images/artItemImages/charcoal/charcoal-03",
+      "refImgUrl":"/images/artItemImages/charcoal/ref-charcoal-03"
+    },
+    "4":{
+      "title":"Charcoal",
+      "desc":"Lorem Impsum",
+      "size":"A3",
+      "imgUrl":"/images/artItemImages/charcoal/charcoal-04",
+      "refImgUrl":"/images/artItemImages/charcoal/ref-charcoal-04"
+    }
+  }
+}
+}
