@@ -51,7 +51,7 @@ function Footer() {
                 </Row>
                 <Row>
                     <Col className="p-0 d-flex justify-content-center" >
-                        RK Art Studio 2020. All Rights Reserved.
+                        RK Art Studio 2022. All Rights Reserved.
                     </Col>
 
 
