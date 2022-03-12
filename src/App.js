@@ -48,7 +48,7 @@ class App extends React.Component {
                     <NavDropdown.Item as={Link} to="/arts/charcoal" href="/arts/charcoal"> Charcoal </NavDropdown.Item>
                   </NavDropdown>
                   <Nav.Link as={Link} to="/about" href="/about">  About </Nav.Link>
-                  <Nav.Link as={Link} to="/contact" href="/contact">  Contact </Nav.Link>
+                  <Nav.Link target="_blank" href="https://www.etsy.com/ca/listing/1183576567/custom-handmade-portraitscustom-colour?click_key=4dbbcdf2c0b267bc2a7b74b022cbfbad97ae802b%3A1183576567&click_sum=f5b03bfc&ref=shop_home_active_1">  Order on Etsy </Nav.Link>
               
                 </Nav>
               </Navbar.Collapse>
